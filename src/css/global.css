@@ -1,0 +1,24 @@
+body {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+main {
+    min-height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url(https://c.tenor.com/qi0YMiqR9c4AAAAM/pokeballs-pokemon.gif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding-bottom: 20px;
+}
+
+.pokedex {
+    display: flex;
+    gap: 30px;
+    padding: 30px 0;
+
+}
+
